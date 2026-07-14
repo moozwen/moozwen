@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm moozwen 👋
 
-<!--
-**moozwen/moozwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer in Tokyo.
+By day I ship LLM agents to production; by night I tinker with zero-knowledge proofs and AI experiments.
 
-Here are some ideas to get you started:
+I started out in Geology, so I can't help digging down to the underlying structure of things — rocks, proofs, or agent architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Now
+
+- [`zk-snark-from-scratch`](https://github.com/moozwen/zk-snark-from-scratch) — zk-SNARKs in Rust, built up from the algebra (no proving libraries allowed)
+- [`sakana-debate`](https://github.com/moozwen/sakana-debate) — does multi-agent debate actually beat plain sampling at a matched token budget? (Spoiler: mostly no. Measuring it properly is the fun part.)
+
+### 💼 Day job
+
+Building an AI chat application that talks to real customers — LangGraph workflow design, Human-in-the-Loop, and keeping LLM-generated code architecturally honest.
+
+Before that, I designed and built an enterprise multi-agent orchestration platform: realtime streaming over WebSocket, Pub/Sub on plain PostgreSQL (LISTEN/NOTIFY — no Redis needed yet), and session design that survives concurrency.
+
+`Python` `FastAPI` `LangGraph` `PostgreSQL` `Rust (learning)`
+
+### ✍️ Writing
+
+- Zenn: https://zenn.dev/nacekimura （日本語で技術記事を書いています）
