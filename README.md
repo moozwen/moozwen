@@ -1,7 +1,7 @@
 ## Hi, I'm moozwen 👋
 
 Software engineer in Tokyo.
-By day I ship LLM agents to production; by night I tinker with zero-knowledge proofs and AI experiments.
+By day I build an LLM-powered chat app for production; by night I tinker with zero-knowledge proofs and AI experiments.
 
 I started out in Geology, so I can't help digging down to the underlying structure of things — rocks, proofs, or agent architectures.
 
